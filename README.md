@@ -1,4 +1,4 @@
-# dino-game
+# Olá, seja bem vindo ao Jogo do Dinossauro!
 
 ## Aqui, você encontrará, o famoso jogo do dino!
 
