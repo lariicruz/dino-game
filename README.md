@@ -3,7 +3,7 @@
 Neste jogo, você terá como objetivo, ultrapassar as barreiras, sem tocar nos cactos.
 
 Para ter acesso ao jogo, é necessário ter o programa WinRAR instalado no seu computador.
-caso não tenha, é só acessar o link abaixo, e baixar.
+caso não tenha, é só acessar o link abaixo, e baixar na opção donwload winRRAR.
 
 https://www.win-rar.com/start.html?&L=0
 
